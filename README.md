@@ -1,5 +1,3 @@
-huntercoder20/README.md
-
 𝐇𝐞𝐥𝐥𝐨! 👋
 
 My name is Hunter, a frontend software engineer in North America.
